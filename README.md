@@ -42,7 +42,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Ritik650/Image-Captioning-using-Deep-Learning.git
+   git clone https://github.com/zitsu-k/NOOB-KODERS
    cd Image-Captioning-using-Deep-Learning
    ```
 
